@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 Methodology & Design Philosophy
+## Methodology & Design Philosophy
 
 This project adopts a **Neuro-Symbolic** approach to database interaction, addressing the limitations of standard "Text-to-SQL" models.
 
@@ -24,7 +24,7 @@ The agent follows a **Observation-Thought-Action** loop:
 
 ---
 
-## 🔮 Future Roadmap
+## Future Directions
 
 This repository represents the initial architectural proof-of-concept. Future research directions include:
 
